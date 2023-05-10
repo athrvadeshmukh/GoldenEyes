@@ -17,3 +17,11 @@ https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=62f9573659144d69b9ec770c0fb4
 I recieved a badge from SnapChat and Hack2Skill for this AR lens created by us
 
 ![badge snap](https://github.com/athrvadeshmukh/GoldenEyes/assets/112002659/4b034ad5-aef1-4712-9d63-ae92d89374fe)
+
+
+To use this in in your system you must have SnapChat lens Studio installed in your system in Windows OS you can downlaod the lens studio by this link 
+https://ar.snap.com/download?utm_source=GoogleSEM&utm_medium=PAIDPLATFORM&utm_campaign=LensStudio_Sitelink&utm_term=Extension&utm_content=Download&gclid=CjwKCAjwge2iBhBBEiwAfXDBR4RDmmeeZpKjtrLeKtfr4LYPHZo4gbyDbsp3nVJT9X9zGchiKM1TqhoCb3cQAvD_BwE
+
+After downloading and setting up your lens studio clone the repository https://github.com/athrvadeshmukh/GoldenEyes.git
+Then go to SnapChat Hackathon Eyes.lsproj and open it in your lens studio.
+And then use it in your lens studio and can modify it as you want.
