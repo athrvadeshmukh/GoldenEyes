@@ -1,0 +1,79 @@
+{
+    "1682858603066430:475030": {
+        "IFileManager": {
+            "path": "Files/File_1682858603066430_475030.pvr"
+        }
+    },
+    "1682858603069508:475031": {
+        "IResourceController": {
+            "name": "Cristal5_NM",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682858603070245:475032",
+            "fileId": "1682858603066430:475030",
+            "originalId": "1682858603070711:475037",
+            "publicId": "1682858603105065:475044",
+            "expected_hash": "f464d428941f8841ac5fd77b60d9ec14",
+            "additional": {
+                "originHash": "e23323fc5f4e91e716440f0e6a6f10b3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682858603070245:475032",
+            "name": "Files/File_1682858603066430_475030.jpg",
+            "flags": 1
+        }
+    },
+    "1682858603070245:475032": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e23323fc5f4e91e716440f0e6a6f10b3"
+                    },
+                    "v": "1682858608498322:475902"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "78442",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "116954",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682858603086457:475043"
+        }
+    },
+    "1682858603070711:475037": {
+        "IFileManager": {
+            "path": "Files/File_1682858603070711_475037.png"
+        }
+    },
+    "1682858603086457:475043": {
+        "IFileManager": {
+            "path": "Files/File_1682858603086457_475043.png"
+        }
+    },
+    "1682858603105065:475044": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Cristal5_NM.png",
+                "hash": "e23323fc5f4e91e716440f0e6a6f10b3"
+            }
+        }
+    },
+    "1682858608498322:475902": {
+        "IFileManager": {
+            "path": "Files/File_1682858608498322_475902.pvr"
+        }
+    }
+}

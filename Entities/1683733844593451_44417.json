@@ -1,0 +1,66 @@
+{
+    "1683733844588099:44415": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain VFX Resources/Textures/fx_water_splash_2x2.png",
+                "hash": "290300cf9474fef7382ea71e9676dec5"
+            }
+        }
+    },
+    "1683733844590136:44416": {
+        "IFileManager": {
+            "path": "Files/File_1683733844590136_44416.png"
+        }
+    },
+    "1683733844593451:44417": {
+        "IResourceController": {
+            "name": "fx_water_splash_2x2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683733844599016:44418",
+            "fileId": "1683733844590136:44416",
+            "originalId": "1683733844599681:44423",
+            "publicId": "1683733844588099:44415",
+            "expected_hash": "290300cf9474fef7382ea71e9676dec5",
+            "additional": {
+                "originHash": "290300cf9474fef7382ea71e9676dec5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683733844599016:44418",
+            "name": "Files/File_1683733844590136_44416.png",
+            "flags": 1
+        }
+    },
+    "1683733844599016:44418": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "19093",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "19093",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683733844606857:44424"
+        }
+    },
+    "1683733844599681:44423": {
+        "IFileManager": {
+            "path": "Files/File_1683733844599681_44423.png"
+        }
+    },
+    "1683733844606857:44424": {
+        "IFileManager": {
+            "path": "Files/File_1683733844606857_44424.png"
+        }
+    }
+}

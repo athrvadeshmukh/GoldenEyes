@@ -1,0 +1,17 @@
+{
+    "1682864293147507:1037741": {
+        "IResourceController": {
+            "name": "Saturn",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682864293147506:1037740"
+        },
+        "IResourceManager": {
+            "uid": "1682864293147506:1037740",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

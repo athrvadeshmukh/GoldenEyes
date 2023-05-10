@@ -1,0 +1,79 @@
+{
+    "1682862638543274:875999": {
+        "IFileManager": {
+            "path": "Files/File_1682862638543274_875999.pvr"
+        }
+    },
+    "1682862638551247:876000": {
+        "IResourceController": {
+            "name": "abstract-flame-background-blazing-orange-fire",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682862638559531:876001",
+            "fileId": "1682862638543274:875999",
+            "originalId": "1682862638563067:876006",
+            "publicId": "1682862638854788:876033",
+            "expected_hash": "df223eba632611b3328d4db131b00fc1",
+            "additional": {
+                "originHash": "f5b5843539bbffeb85d7fde7cf9dabf6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682862638559531:876001",
+            "name": "Files/File_1682862638543274_875999.png",
+            "flags": 1
+        }
+    },
+    "1682862638559531:876001": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "5851dc4c26ad1a437ddfe4d22077b295"
+                    },
+                    "v": "1682862703729431:882959"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1400832",
+                "compressedSize": "1101490",
+                "extension": "png",
+                "originalRAM": "11182080",
+                "originalSize": "4014964",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682862638691775:876017"
+        }
+    },
+    "1682862638563067:876006": {
+        "IFileManager": {
+            "path": "Files/File_1682862638563067_876006.bmp"
+        }
+    },
+    "1682862638691775:876017": {
+        "IFileManager": {
+            "path": "Files/File_1682862638691775_876017.png"
+        }
+    },
+    "1682862638854788:876033": {
+        "IResourceController": {
+            "public": {
+                "path": "abstract-flame-background-blazing-orange-fire.bmp",
+                "hash": "f5b5843539bbffeb85d7fde7cf9dabf6"
+            }
+        }
+    },
+    "1682862703729431:882959": {
+        "IFileManager": {
+            "path": "Files/File_1682862703729431_882959.pvr"
+        }
+    }
+}

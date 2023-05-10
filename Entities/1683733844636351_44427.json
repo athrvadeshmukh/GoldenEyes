@@ -1,0 +1,66 @@
+{
+    "1683733844629136:44425": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain VFX Resources/Textures/fx_water_splash_2x2_distortion.png",
+                "hash": "6b106121bae3f7b3bfd93de7e1482c70"
+            }
+        }
+    },
+    "1683733844631593:44426": {
+        "IFileManager": {
+            "path": "Files/File_1683733844631593_44426.png"
+        }
+    },
+    "1683733844636351:44427": {
+        "IResourceController": {
+            "name": "fx_water_splash_2x2_distortion",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683733844642152:44428",
+            "fileId": "1683733844631593:44426",
+            "originalId": "1683733844643065:44433",
+            "publicId": "1683733844629136:44425",
+            "expected_hash": "6b106121bae3f7b3bfd93de7e1482c70",
+            "additional": {
+                "originHash": "6b106121bae3f7b3bfd93de7e1482c70"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683733844642152:44428",
+            "name": "Files/File_1683733844631593_44426.png",
+            "flags": 1
+        }
+    },
+    "1683733844642152:44428": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "8762",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "8762",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683733844649226:44434"
+        }
+    },
+    "1683733844643065:44433": {
+        "IFileManager": {
+            "path": "Files/File_1683733844643065_44433.png"
+        }
+    },
+    "1683733844649226:44434": {
+        "IFileManager": {
+            "path": "Files/File_1683733844649226_44434.png"
+        }
+    }
+}

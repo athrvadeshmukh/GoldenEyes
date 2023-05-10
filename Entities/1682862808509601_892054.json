@@ -1,0 +1,66 @@
+{
+    "1682862808491790:892050": {
+        "IFileManager": {
+            "path": "Files/File_1682862808491790_892050.jpg"
+        }
+    },
+    "1682862808509601:892054": {
+        "IResourceController": {
+            "name": "nebula3",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682862808521508:892055",
+            "fileId": "1682862808491790:892050",
+            "originalId": "1682862808522350:892060",
+            "publicId": "1682862808616296:892069",
+            "expected_hash": "e5302c43f368adb2d7712ecc921563f3",
+            "additional": {
+                "originHash": "e5302c43f368adb2d7712ecc921563f3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682862808521508:892055",
+            "name": "Files/File_1682862808491790_892050.jpg",
+            "flags": 1
+        }
+    },
+    "1682862808521508:892055": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1629600",
+                "compressedSize": "322181",
+                "extension": "jpg",
+                "originalRAM": "1629600",
+                "originalSize": "322181",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682862808561476:892063"
+        }
+    },
+    "1682862808522350:892060": {
+        "IFileManager": {
+            "path": "Files/File_1682862808522350_892060.jpg"
+        }
+    },
+    "1682862808561476:892063": {
+        "IFileManager": {
+            "path": "Files/File_1682862808561476_892063.jpg"
+        }
+    },
+    "1682862808616296:892069": {
+        "IResourceController": {
+            "public": {
+                "path": "nebula3.jpg",
+                "hash": "e5302c43f368adb2d7712ecc921563f3"
+            }
+        }
+    }
+}

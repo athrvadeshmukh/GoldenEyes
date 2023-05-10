@@ -1,0 +1,115 @@
+{
+    "1682856255057636:173089": {
+        "IFileManager": {
+            "path": "Files/File_1682856255057636_173089.mesh"
+        }
+    },
+    "1682856255060818:173090": {
+        "IResourceController": {
+            "name": "chronoid",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856255089661:173094",
+            "fileId": "1682856255057636:173089",
+            "publicId": "1682856255114896:173108",
+            "expected_hash": "5eb90b30d808586299b186f7d9e52e6f",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682856255089661:173094",
+            "name": "Files/File_1682856255057636_173089.mesh",
+            "flags": 1
+        }
+    },
+    "1682856255089661:173094": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "35232",
+                "compressedSize": "24340",
+                "extension": "mesh",
+                "originalRAM": "35232",
+                "originalSize": "24340",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682856255103449:173107"
+        }
+    },
+    "1682856255103449:173107": {
+        "IFileManager": {
+            "path": "Files/File_1682856255103449_173107.mesh"
+        }
+    },
+    "1682856255114896:173108": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Meshes/chronoid.mesh",
+                "hash": "5eb90b30d808586299b186f7d9e52e6f"
+            }
+        }
+    }
+}

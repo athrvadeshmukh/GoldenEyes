@@ -1,0 +1,24 @@
+{
+    "1682856255461361:173148": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682856255461711:173149",
+            "resources": [
+                "1682856255187787:173134",
+                "1682856255486592:173170",
+                "1682856255809364:173285"
+            ]
+        }
+    },
+    "1682856255461711:173149": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Materials"
+            }
+        }
+    }
+}

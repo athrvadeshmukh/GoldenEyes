@@ -1,0 +1,444 @@
+{
+    "lens_id": "",
+    "document_id": "Q3eigriahnphcQV3LlFz",
+    "original_document_id": "Q3eigriahnphcQV3LlFz",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "hints": [
+                "lens_hint_move_your_head"
+            ],
+            "lens": "Golden Eyes",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "sg": "true",
+            "git_friendly": "true",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "true",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 4.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Magma Noise",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1682855525547164:59098",
+                    "v": "2kzXqTvinsl4wM5TkbeZ9l"
+                },
+                {
+                    "k": "1682855916597806:125847",
+                    "v": "3jlGkpT6WHITNGU0ISqlZ3"
+                },
+                {
+                    "k": "1682856254800432:172964",
+                    "v": "2kzXqTvinsl4wM5TkbeZ9l"
+                },
+                {
+                    "k": "1682856295044103:179645",
+                    "v": "3jlGkpT6WHITNGU0ISqlZ3"
+                },
+                {
+                    "k": "1682858602697830:474879",
+                    "v": "2bhBcLvHwqKGIeXRr4cYPf"
+                },
+                {
+                    "k": "1682860584751689:648093",
+                    "v": "3JG1yesXgxu0oGDOIgU76m"
+                },
+                {
+                    "k": "1682860605635506:651581",
+                    "v": "219OI4hQF5iAvnK2jvwYk"
+                },
+                {
+                    "k": "1682860922517346:694981",
+                    "v": "6bKn3Ij1RVgmZb9tUJiD9O"
+                },
+                {
+                    "k": "1682860941260547:697979",
+                    "v": "6IHq2C3GobYvXg5Y5wErt6"
+                },
+                {
+                    "k": "1682860944373810:698406",
+                    "v": "5OWUxyGNP5vEe9lTvi30LU"
+                },
+                {
+                    "k": "1682861117352207:712506",
+                    "v": "7g1QlVyRKHnep3ZdnV0F4j"
+                },
+                {
+                    "k": "1682861820091951:785792",
+                    "v": "44hLuGhnd3FgKJlxGI2WGm"
+                },
+                {
+                    "k": "1682861823901759:786247",
+                    "v": "7oYToNbiaOeoHn7kR77ctB"
+                },
+                {
+                    "k": "1682861827953528:787460",
+                    "v": "7z9BKXRDqmLTWYYnq1MZG9"
+                },
+                {
+                    "k": "1682861911405244:796424",
+                    "v": "6PK2aeKSon3QIGFdxXe3iC"
+                },
+                {
+                    "k": "1682861915172029:796900",
+                    "v": "5QzOH1BcVkCjU6I2kdfld9"
+                },
+                {
+                    "k": "1682861921133094:799556",
+                    "v": "7yK764rdQNmiwWudZtsOX1"
+                },
+                {
+                    "k": "1682861925976132:800664",
+                    "v": "7lSvqiGRNCV1oBnDoMXhrB"
+                },
+                {
+                    "k": "1682861946393411:803337",
+                    "v": "6bKn3Ij1RVgmZb9tUJiD9O"
+                },
+                {
+                    "k": "1682865082610837:1113596",
+                    "v": "6bKn3Ij1RVgmZb9tUJiD9O"
+                },
+                {
+                    "k": "1682867413260787:1386837",
+                    "v": "7APFSjmwVLbFU6mG4KyGsA"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1682856326479617:184580",
+                        "v": {
+                            "prefab": "1682856254800432:172964",
+                            "mapping": [
+                                {
+                                    "k": "1682856256017939:173368",
+                                    "v": "1682856326479617:184580"
+                                },
+                                {
+                                    "k": "1682856256017965:173369",
+                                    "v": "1682856326481130:184598"
+                                },
+                                {
+                                    "k": "1682856256017971:173370",
+                                    "v": "1682856326481401:184600"
+                                },
+                                {
+                                    "k": "1682856256018003:173371",
+                                    "v": "1682856326504271:184618"
+                                },
+                                {
+                                    "k": "1682856256018009:173372",
+                                    "v": "1682856326511534:184630"
+                                },
+                                {
+                                    "k": "1682856256018043:173373",
+                                    "v": "1682856326514329:184644"
+                                },
+                                {
+                                    "k": "1682856256018049:173374",
+                                    "v": "1682856326523265:184748"
+                                },
+                                {
+                                    "k": "1682856256018067:173375",
+                                    "v": "1682856326525198:184771"
+                                },
+                                {
+                                    "k": "1682856256018072:173376",
+                                    "v": "1682856326526582:184778"
+                                },
+                                {
+                                    "k": "1682856256018084:173377",
+                                    "v": "1682856326528107:184796"
+                                },
+                                {
+                                    "k": "1682856256018088:173378",
+                                    "v": "1682856326529428:184803"
+                                },
+                                {
+                                    "k": "1682856256018103:173379",
+                                    "v": "1682856326530811:184817"
+                                },
+                                {
+                                    "k": "1682856256018108:173380",
+                                    "v": "1682856326533350:184829"
+                                },
+                                {
+                                    "k": "1682856256018121:173381",
+                                    "v": "1682856326536037:184854"
+                                },
+                                {
+                                    "k": "1682856256018127:173382",
+                                    "v": "1682856326537750:184864"
+                                },
+                                {
+                                    "k": "1682856256018134:173383",
+                                    "v": "1682856326539355:184882"
+                                },
+                                {
+                                    "k": "1682856256018139:173384",
+                                    "v": "1682856326540857:184889"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1682864295724345:1038200",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1682864295709379:1038097"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1682864295723493:1038198"
+                        },
+                        {
+                            "k": [
+                                "Saturn"
+                            ],
+                            "v": "1682864295712911:1038114"
+                        },
+                        {
+                            "k": [
+                                "Saturn",
+                                "Component.Animation"
+                            ],
+                            "v": "1682864295714248:1038127"
+                        },
+                        {
+                            "k": [
+                                "Saturn",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682864295713353:1038116"
+                        },
+                        {
+                            "k": [
+                                "Saturn Clouds"
+                            ],
+                            "v": "1682864295714511:1038129"
+                        },
+                        {
+                            "k": [
+                                "Saturn Clouds",
+                                "Component.Animation"
+                            ],
+                            "v": "1682864295715818:1038142"
+                        },
+                        {
+                            "k": [
+                                "Saturn Clouds",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682864295714938:1038131"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings"
+                            ],
+                            "v": "1682864295711126:1038099"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings",
+                                "Component.Animation"
+                            ],
+                            "v": "1682864295712604:1038112"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682864295711578:1038101"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings Down"
+                            ],
+                            "v": "1682864295718076:1038157"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings Down",
+                                "Component.Animation"
+                            ],
+                            "v": "1682864295723187:1038196"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings Down",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682864295722263:1038185"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings Down",
+                                "ConeDown"
+                            ],
+                            "v": "1682864295719080:1038159"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings Down",
+                                "ConeDown",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682864295719598:1038161"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings Down",
+                                "ConeUP"
+                            ],
+                            "v": "1682864295720853:1038172"
+                        },
+                        {
+                            "k": [
+                                "Saturn Rings Down",
+                                "ConeUP",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682864295721315:1038174"
+                        },
+                        {
+                            "k": [
+                                "Sphere Tethys"
+                            ],
+                            "v": "1682864295716131:1038144"
+                        },
+                        {
+                            "k": [
+                                "Sphere Tethys",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1682864295716594:1038146"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.43.0"
+}

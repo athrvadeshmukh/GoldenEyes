@@ -1,0 +1,66 @@
+{
+    "1682865960118115:1195497": {
+        "IFileManager": {
+            "path": "Files/File_1682865960118115_1195497.jpg"
+        }
+    },
+    "1682865960122282:1195498": {
+        "IResourceController": {
+            "name": "pink eye",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682865960129868:1195499",
+            "fileId": "1682865960118115:1195497",
+            "originalId": "1682865960131427:1195504",
+            "publicId": "1682865960227760:1195511",
+            "expected_hash": "2540b80ebcd05c76ce23a4cb55e2e04e",
+            "additional": {
+                "originHash": "ed9a85440c35cc7065a4a6a9803c165e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682865960129868:1195499",
+            "name": "Files/File_1682865960118115_1195497.jpg",
+            "flags": 1
+        }
+    },
+    "1682865960129868:1195499": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16736256",
+                "compressedSize": "304397",
+                "extension": "jpg",
+                "originalRAM": "16736256",
+                "originalSize": "304397",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682865960184643:1195507"
+        }
+    },
+    "1682865960131427:1195504": {
+        "IFileManager": {
+            "path": "Files/File_1682865960131427_1195504.jpg"
+        }
+    },
+    "1682865960184643:1195507": {
+        "IFileManager": {
+            "path": "Files/File_1682865960184643_1195507.jpg"
+        }
+    },
+    "1682865960227760:1195511": {
+        "IResourceController": {
+            "public": {
+                "path": "pink eye.jpg",
+                "hash": "ed9a85440c35cc7065a4a6a9803c165e"
+            }
+        }
+    }
+}

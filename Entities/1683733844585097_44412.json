@@ -1,0 +1,24 @@
+{
+    "1683733844582923:44411": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain VFX Resources",
+                "hash": "3440d575fb7c7d43cf066ec86d02071b"
+            }
+        }
+    },
+    "1683733844585097:44412": {
+        "IResourceController": {
+            "name": "Fountain VFX Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683733844582923:44411",
+            "resources": [
+                "1683733844587354:44414",
+                "1683733844675056:44436"
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1683733844675923:44437": {
+        "IResourceController": {
+            "public": {
+                "path": "FountainVFX__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "8a90bf5f19d6e597efbd2a7a54963dc5"
+            }
+        }
+    },
+    "1683733844676898:44442": {
+        "IResourceController": {
+            "name": "FountainVFX__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683733844676792:44439",
+            "fileId": "1683733844745506:44446",
+            "originalId": "1683733848342253:44761",
+            "publicId": "1683733844675923:44437",
+            "expected_hash": "817a91fef1d3a55c40c3c0dcad624c36"
+        },
+        "IResourceManager": {
+            "uid": "1683733844676792:44439",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1683733844745506:44446": {
+        "IFileManager": {
+            "path": "Files/File_1683733844745506_44446.oprfb"
+        }
+    },
+    "1683733848342253:44761": {
+        "IFileManager": {
+            "path": "Files/File_1683733848342253_44761.oprfb"
+        }
+    }
+}

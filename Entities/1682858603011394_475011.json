@@ -1,0 +1,66 @@
+{
+    "1682858603008108:475010": {
+        "IFileManager": {
+            "path": "Files/File_1682858603008108_475010.jpg"
+        }
+    },
+    "1682858603011394:475011": {
+        "IResourceController": {
+            "name": "Cristal5_DM",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682858603012071:475012",
+            "fileId": "1682858603008108:475010",
+            "originalId": "1682858603012756:475017",
+            "publicId": "1682858603045092:475024",
+            "expected_hash": "37b839220c002db403a36ca2a5354f47",
+            "additional": {
+                "originHash": "37b839220c002db403a36ca2a5354f47"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682858603012071:475012",
+            "name": "Files/File_1682858603008108_475010.jpg",
+            "flags": 1
+        }
+    },
+    "1682858603012071:475012": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "2359296",
+                "compressedSize": "25136",
+                "extension": "jpg",
+                "originalRAM": "2359296",
+                "originalSize": "25136",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682858603029290:475023"
+        }
+    },
+    "1682858603012756:475017": {
+        "IFileManager": {
+            "path": "Files/File_1682858603012756_475017.jpg"
+        }
+    },
+    "1682858603029290:475023": {
+        "IFileManager": {
+            "path": "Files/File_1682858603029290_475023.jpg"
+        }
+    },
+    "1682858603045092:475024": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Cristal5_DM.jpg",
+                "hash": "37b839220c002db403a36ca2a5354f47"
+            }
+        }
+    }
+}

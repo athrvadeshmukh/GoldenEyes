@@ -1,0 +1,39 @@
+{
+    "1682865082608298:1113594": {
+        "IFileManager": {
+            "path": "Files/File_1682865082608298_1113594"
+        }
+    },
+    "1682865082610830:1113595": {
+        "IResourceController": {
+            "name": "Eyeball__ASSIGN_TO_EYEBALLS_MESH",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682865082610837:1113596",
+            "fileId": "1682865082608298:1113594",
+            "originalId": "1682865082673169:1113605",
+            "publicId": "1682865084218431:1113910",
+            "expected_hash": "9340b5e779337039139aa61a86e74725"
+        },
+        "IResourceManager": {
+            "uid": "1682865082610837:1113596",
+            "name": "Files/File_1682865082608298_1113594",
+            "flags": 1
+        }
+    },
+    "1682865082673169:1113605": {
+        "IFileManager": {
+            "path": "Files/File_1682865082673169_1113605.lsmat"
+        }
+    },
+    "1682865084218431:1113910": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeball__ASSIGN_TO_EYEBALLS_MESH.lsmat",
+                "hash": "15314e97fcb8f64f7891f05f1f00d807"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1682864295724629:1038314": {
+        "IResourceController": {
+            "name": "BlackHole",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682864295724345:1038200",
+            "fileId": "1682864295776237:1038423",
+            "originalId": "1682866214557201:1229935",
+            "expected_hash": "f7e0d20a4bb43025a87d664859eda931"
+        },
+        "IResourceManager": {
+            "uid": "1682864295724345:1038200",
+            "name": "BlackHole",
+            "flags": 0
+        }
+    },
+    "1682864295776237:1038423": {
+        "IFileManager": {
+            "path": "Files/File_1682864295776237_1038423.oprfb"
+        }
+    },
+    "1682866214557201:1229935": {
+        "IFileManager": {
+            "path": "Files/File_1682866214557201_1229935.oprfb"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1682865083383317:1113763": {
+        "IFileManager": {
+            "path": "Files/File_1682865083383317_1113763.pvr"
+        }
+    },
+    "1682865083387592:1113764": {
+        "IResourceController": {
+            "name": "eye_sclera",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682865083389430:1113765",
+            "fileId": "1682865083383317:1113763",
+            "originalId": "1682865083390600:1113770",
+            "publicId": "1682865083465632:1113779",
+            "expected_hash": "555965e1084e6c0d7422db16a9118856",
+            "additional": {
+                "originHash": "21a90be90373a9bb96e8dd86bb3d3f58"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682865083389430:1113765",
+            "name": "Files/File_1682865083383317_1113763.jpg",
+            "flags": 1
+        }
+    },
+    "1682865083389430:1113765": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "21a90be90373a9bb96e8dd86bb3d3f58"
+                    },
+                    "v": "1682865100841571:1118553"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "80793",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "311814",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682865083425171:1113776"
+        }
+    },
+    "1682865083390600:1113770": {
+        "IFileManager": {
+            "path": "Files/File_1682865083390600_1113770.png"
+        }
+    },
+    "1682865083425171:1113776": {
+        "IFileManager": {
+            "path": "Files/File_1682865083425171_1113776.png"
+        }
+    },
+    "1682865083465632:1113779": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/eye_sclera.png",
+                "hash": "21a90be90373a9bb96e8dd86bb3d3f58"
+            }
+        }
+    },
+    "1682865100841571:1118553": {
+        "IFileManager": {
+            "path": "Files/File_1682865100841571_1118553.pvr"
+        }
+    }
+}

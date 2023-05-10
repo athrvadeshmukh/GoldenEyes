@@ -1,0 +1,39 @@
+{
+    "1682856255807292:173275": {
+        "IFileManager": {
+            "path": "Files/File_1682856255807292_173275"
+        }
+    },
+    "1682856255809364:173285": {
+        "IResourceController": {
+            "name": "occluder 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856255809370:173286",
+            "fileId": "1682856255807292:173275",
+            "originalId": "1682856255861585:173329",
+            "publicId": "1682856255998283:173336",
+            "expected_hash": "1a3f2ad47cf6fb02043fda2e3a08e22c"
+        },
+        "IResourceManager": {
+            "uid": "1682856255809370:173286",
+            "name": "Files/File_1682856255807292_173275",
+            "flags": 1
+        }
+    },
+    "1682856255861585:173329": {
+        "IFileManager": {
+            "path": "Files/File_1682856255861585_173329.lsmat"
+        }
+    },
+    "1682856255998283:173336": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Materials/occluder 2.lsmat",
+                "hash": "9afe166f4d934e69834c5864d6694b88"
+            }
+        }
+    }
+}

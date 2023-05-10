@@ -1,0 +1,79 @@
+{
+    "1682856254982031:173056": {
+        "IFileManager": {
+            "path": "Files/File_1682856254982031_173056.pvr"
+        }
+    },
+    "1682856254984667:173057": {
+        "IResourceController": {
+            "name": "eye_d [EDIT]",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856254985660:173058",
+            "fileId": "1682856254982031:173056",
+            "originalId": "1682856254986291:173063",
+            "publicId": "1682856255045811:173076",
+            "expected_hash": "7bc623d5f2c2ce1a8e09c4a635fbbb15",
+            "additional": {
+                "originHash": "ac19d46840da29da3e877e5113d07bc5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682856254985660:173058",
+            "name": "Files/File_1682856254982031_173056.jpg",
+            "flags": 1
+        }
+    },
+    "1682856254985660:173058": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ac19d46840da29da3e877e5113d07bc5"
+                    },
+                    "v": "1682856274930769:176480"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "95152",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "398861",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682856255015499:173075"
+        }
+    },
+    "1682856254986291:173063": {
+        "IFileManager": {
+            "path": "Files/File_1682856254986291_173063.png"
+        }
+    },
+    "1682856255015499:173075": {
+        "IFileManager": {
+            "path": "Files/File_1682856255015499_173075.png"
+        }
+    },
+    "1682856255045811:173076": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Textures/eye_d [EDIT].png",
+                "hash": "ac19d46840da29da3e877e5113d07bc5"
+            }
+        }
+    },
+    "1682856274930769:176480": {
+        "IFileManager": {
+            "path": "Files/File_1682856274930769_176480.pvr"
+        }
+    }
+}

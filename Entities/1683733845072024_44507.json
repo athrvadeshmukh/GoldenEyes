@@ -1,0 +1,66 @@
+{
+    "1683733845060706:44505": {
+        "IResourceController": {
+            "public": {
+                "path": "Trail VFX Resources/Textures/flow_noise_3D.png",
+                "hash": "3ae97b684d98fcbddafb424199d64dbb"
+            }
+        }
+    },
+    "1683733845067722:44506": {
+        "IFileManager": {
+            "path": "Files/File_1683733845067722_44506.png"
+        }
+    },
+    "1683733845072024:44507": {
+        "IResourceController": {
+            "name": "flow_noise_3D",
+            "type": 1,
+            "subtype": 21,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683733845078519:44508",
+            "fileId": "1683733845067722:44506",
+            "originalId": "1683733845079549:44513",
+            "publicId": "1683733845060706:44505",
+            "expected_hash": "3ae97b684d98fcbddafb424199d64dbb",
+            "additional": {
+                "originHash": "3ae97b684d98fcbddafb424199d64dbb"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1683733845078519:44508",
+            "name": "Files/File_1683733845067722_44506.png",
+            "flags": 1
+        }
+    },
+    "1683733845078519:44508": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "9604",
+                "compressedSize": "241799",
+                "extension": "png",
+                "originalRAM": "9604",
+                "originalSize": "241799",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "21",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1683733845087900:44514"
+        }
+    },
+    "1683733845079549:44513": {
+        "IFileManager": {
+            "path": "Files/File_1683733845079549_44513.png"
+        }
+    },
+    "1683733845087900:44514": {
+        "IFileManager": {
+            "path": "Files/File_1683733845087900_44514.png"
+        }
+    }
+}

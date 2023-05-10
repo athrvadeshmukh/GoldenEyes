@@ -1,0 +1,106 @@
+{
+    "1682864293014203:1037683": {
+        "IFileManager": {
+            "path": "Files/File_1682864293014203_1037683.mesh"
+        }
+    },
+    "1682864293016561:1037684": {
+        "IResourceController": {
+            "name": "Saturn Rings Down",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682864293044528:1037686",
+            "fileId": "1682864293014203:1037683",
+            "expected_hash": "b5832ba756e18658bd52cd6d6ebbd21f",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682864293044528:1037686",
+            "name": "Files/File_1682864293014203_1037683.mesh",
+            "flags": 1
+        }
+    },
+    "1682864293044528:1037686": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "38256",
+                "compressedSize": "23539",
+                "extension": "mesh",
+                "originalRAM": "38256",
+                "originalSize": "23539",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682864295887951:1038441"
+        }
+    },
+    "1682864295887951:1038441": {
+        "IFileManager": {
+            "path": "Files/File_1682864295887951_1038441.mesh"
+        }
+    }
+}

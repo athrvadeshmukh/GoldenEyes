@@ -1,0 +1,39 @@
+{
+    "1682856295042350:179643": {
+        "IFileManager": {
+            "path": "Files/File_1682856295042350_179643"
+        }
+    },
+    "1682856295044096:179644": {
+        "IResourceController": {
+            "name": "Rainbow",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856295044103:179645",
+            "fileId": "1682856295042350:179643",
+            "originalId": "1682856295086535:179659",
+            "publicId": "1682862915400080:902354",
+            "expected_hash": "876db71c204b275dc2166a174fcb6c7b"
+        },
+        "IResourceManager": {
+            "uid": "1682856295044103:179645",
+            "name": "Files/File_1682856295042350_179643",
+            "flags": 1
+        }
+    },
+    "1682856295086535:179659": {
+        "IFileManager": {
+            "path": "Files/File_1682856295086535_179659.lsmat"
+        }
+    },
+    "1682862915400080:902354": {
+        "IResourceController": {
+            "public": {
+                "path": "Rainbow.lsmat",
+                "hash": "7544a1fbcd2e859a6a284f8b839b9e83"
+            }
+        }
+    }
+}

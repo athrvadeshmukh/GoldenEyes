@@ -1,0 +1,39 @@
+{
+    "1682864293148887:1037770": {
+        "IFileManager": {
+            "path": "Files/File_1682864293148887_1037770"
+        }
+    },
+    "1682864293150710:1037771": {
+        "IResourceController": {
+            "name": "Material #63",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682864293150716:1037772",
+            "fileId": "1682864293148887:1037770",
+            "originalId": "1682864293198913:1037778",
+            "publicId": "1682864295946125:1038453",
+            "expected_hash": "09ddd46fc6bc17b1374ac683b25a4ff8"
+        },
+        "IResourceManager": {
+            "uid": "1682864293150716:1037772",
+            "name": "Files/File_1682864293148887_1037770",
+            "flags": 1
+        }
+    },
+    "1682864293198913:1037778": {
+        "IFileManager": {
+            "path": "Files/File_1682864293198913_1037778.lsmat"
+        }
+    },
+    "1682864295946125:1038453": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/BlackHole/Materials/Material #63.lsmat",
+                "hash": "6fcaae6cb9ea18551b0b896349695644"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1682858602696302:474877": {
+        "IFileManager": {
+            "path": "Files/File_1682858602696302_474877"
+        }
+    },
+    "1682858602697824:474878": {
+        "IResourceController": {
+            "name": "Crystal",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682858602697830:474879",
+            "fileId": "1682858602696302:474877",
+            "originalId": "1682858602738170:474888",
+            "publicId": "1682858603414199:475127",
+            "expected_hash": "ca7f6ba6817b6a3884f5af23dcf0618b"
+        },
+        "IResourceManager": {
+            "uid": "1682858602697830:474879",
+            "name": "Files/File_1682858602696302_474877",
+            "flags": 1
+        }
+    },
+    "1682858602738170:474888": {
+        "IFileManager": {
+            "path": "Files/File_1682858602738170_474888.lsmat"
+        }
+    },
+    "1682858603414199:475127": {
+        "IResourceController": {
+            "public": {
+                "path": "Crystal.lsmat",
+                "hash": "2f3834fa64c2ce93b996cb3cccd63cc0"
+            }
+        }
+    }
+}

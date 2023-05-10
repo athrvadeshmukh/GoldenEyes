@@ -1,0 +1,79 @@
+{
+    "1682865083126993:1113723": {
+        "IFileManager": {
+            "path": "Files/File_1682865083126993_1113723.pvr"
+        }
+    },
+    "1682865083132862:1113724": {
+        "IResourceController": {
+            "name": "eye_pupil",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682865083134032:1113725",
+            "fileId": "1682865083126993:1113723",
+            "originalId": "1682865083135377:1113730",
+            "publicId": "1682865083221108:1113739",
+            "expected_hash": "a33552f7578fe3e685e7a8ff95ce2789",
+            "additional": {
+                "originHash": "ab5fa89e06b77e6defb488de7b83f204"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682865083134032:1113725",
+            "name": "Files/File_1682865083126993_1113723.jpg",
+            "flags": 1
+        }
+    },
+    "1682865083134032:1113725": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ab5fa89e06b77e6defb488de7b83f204"
+                    },
+                    "v": "1682865089038932:1115336"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "1769",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "7724",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1682865083182351:1113738"
+        }
+    },
+    "1682865083135377:1113730": {
+        "IFileManager": {
+            "path": "Files/File_1682865083135377_1113730.png"
+        }
+    },
+    "1682865083182351:1113738": {
+        "IFileManager": {
+            "path": "Files/File_1682865083182351_1113738.png"
+        }
+    },
+    "1682865083221108:1113739": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/eye_pupil.png",
+                "hash": "ab5fa89e06b77e6defb488de7b83f204"
+            }
+        }
+    },
+    "1682865089038932:1115336": {
+        "IFileManager": {
+            "path": "Files/File_1682865089038932_1115336.pvr"
+        }
+    }
+}

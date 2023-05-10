@@ -1,0 +1,24 @@
+{
+    "1682856255012479:173071": {
+        "IResourceController": {
+            "name": "Eyeballs Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682856255012798:173072",
+            "resources": [
+                "1682856255013732:173073",
+                "1682856255101633:173104",
+                "1682856255461361:173148"
+            ]
+        }
+    },
+    "1682856255012798:173072": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources"
+            }
+        }
+    }
+}

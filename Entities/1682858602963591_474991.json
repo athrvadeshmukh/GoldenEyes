@@ -1,0 +1,66 @@
+{
+    "1682858602960902:474990": {
+        "IFileManager": {
+            "path": "Files/File_1682858602960902_474990.jpg"
+        }
+    },
+    "1682858602963591:474991": {
+        "IResourceController": {
+            "name": "noise04",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682858602964402:474992",
+            "fileId": "1682858602960902:474990",
+            "originalId": "1682858602964973:474997",
+            "publicId": "1682858602990306:475004",
+            "expected_hash": "5ecb4c351f47a9b2c317fa83636d2028",
+            "additional": {
+                "originHash": "5ecb4c351f47a9b2c317fa83636d2028"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682858602964402:474992",
+            "name": "Files/File_1682858602960902_474990.jpg",
+            "flags": 1
+        }
+    },
+    "1682858602964402:474992": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "262144",
+                "compressedSize": "5603",
+                "extension": "jpg",
+                "originalRAM": "262144",
+                "originalSize": "5603",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682858602977578:475003"
+        }
+    },
+    "1682858602964973:474997": {
+        "IFileManager": {
+            "path": "Files/File_1682858602964973_474997.jpg"
+        }
+    },
+    "1682858602977578:475003": {
+        "IFileManager": {
+            "path": "Files/File_1682858602977578_475003.jpg"
+        }
+    },
+    "1682858602990306:475004": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/noise04.jpg",
+                "hash": "5ecb4c351f47a9b2c317fa83636d2028"
+            }
+        }
+    }
+}

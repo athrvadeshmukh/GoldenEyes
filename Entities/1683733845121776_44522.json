@@ -1,0 +1,39 @@
+{
+    "1683733845121145:44517": {
+        "IResourceController": {
+            "public": {
+                "path": "TrailsVFX__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "bea2bf8f089abb5df899e38bb3e1acb7"
+            }
+        }
+    },
+    "1683733845121776:44522": {
+        "IResourceController": {
+            "name": "TrailsVFX__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1683733845121725:44519",
+            "fileId": "1683733845174275:44526",
+            "originalId": "1683733848582758:44767",
+            "publicId": "1683733845121145:44517",
+            "expected_hash": "ec6ff85cbffb0f40fca8db627096dada"
+        },
+        "IResourceManager": {
+            "uid": "1683733845121725:44519",
+            "name": "sceneObject_4",
+            "flags": 0
+        }
+    },
+    "1683733845174275:44526": {
+        "IFileManager": {
+            "path": "Files/File_1683733845174275_44526.oprfb"
+        }
+    },
+    "1683733848582758:44767": {
+        "IFileManager": {
+            "path": "Files/File_1683733848582758_44767.oprfb"
+        }
+    }
+}

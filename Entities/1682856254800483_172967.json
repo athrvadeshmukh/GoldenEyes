@@ -1,0 +1,39 @@
+{
+    "1682856254800483:172967": {
+        "IResourceController": {
+            "name": "Eyeballs_DRAG_UNDER_PERSPECTIVE_CAMERA",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856254800432:172964",
+            "fileId": "1682856254840434:172976",
+            "originalId": "1682869923855581:1874551",
+            "publicId": "1682856256029939:173443",
+            "expected_hash": "1efee285e919739395fa8d146e67af4c"
+        },
+        "IResourceManager": {
+            "uid": "1682856254800432:172964",
+            "name": "sceneObject_2",
+            "flags": 0
+        }
+    },
+    "1682856254840434:172976": {
+        "IFileManager": {
+            "path": "Files/File_1682856254840434_172976.oprfb"
+        }
+    },
+    "1682856256029939:173443": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs_DRAG_UNDER_PERSPECTIVE_CAMERA.oprfb",
+                "hash": "250a00dc7495ec0c3ff0b6208e6e14f1"
+            }
+        }
+    },
+    "1682869923855581:1874551": {
+        "IFileManager": {
+            "path": "Files/File_1682869923855581_1874551.oprfb"
+        }
+    }
+}

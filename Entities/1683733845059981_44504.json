@@ -1,0 +1,23 @@
+{
+    "1683733845058052:44503": {
+        "IResourceController": {
+            "public": {
+                "path": "Trail VFX Resources/Textures",
+                "hash": "597a17960b00d6bb9bf77d70947f8358"
+            }
+        }
+    },
+    "1683733845059981:44504": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683733845058052:44503",
+            "resources": [
+                "1683733845072024:44507"
+            ]
+        }
+    }
+}

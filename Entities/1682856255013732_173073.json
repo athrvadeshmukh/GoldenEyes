@@ -1,0 +1,23 @@
+{
+    "1682856255013732:173073": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682856255013877:173074",
+            "resources": [
+                "1682856254984667:173057",
+                "1682856255056887:173081"
+            ]
+        }
+    },
+    "1682856255013877:173074": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Textures"
+            }
+        }
+    }
+}

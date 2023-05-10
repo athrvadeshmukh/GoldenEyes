@@ -1,0 +1,17 @@
+{
+    "1682864293147826:1037750": {
+        "IResourceController": {
+            "name": "Saturn Clouds",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682864293147825:1037749"
+        },
+        "IResourceManager": {
+            "uid": "1682864293147825:1037749",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

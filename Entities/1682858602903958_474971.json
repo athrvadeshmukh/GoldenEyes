@@ -1,0 +1,66 @@
+{
+    "1682858602901374:474970": {
+        "IFileManager": {
+            "path": "Files/File_1682858602901374_474970.jpg"
+        }
+    },
+    "1682858602903958:474971": {
+        "IResourceController": {
+            "name": "noise01",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682858602904726:474972",
+            "fileId": "1682858602901374:474970",
+            "originalId": "1682858602905139:474977",
+            "publicId": "1682858602943855:474986",
+            "expected_hash": "8e6d1f5d53c0d0ce5ba7cf9511b94b01",
+            "additional": {
+                "originHash": "8e6d1f5d53c0d0ce5ba7cf9511b94b01"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682858602904726:474972",
+            "name": "Files/File_1682858602901374_474970.jpg",
+            "flags": 1
+        }
+    },
+    "1682858602904726:474972": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "106418",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "106418",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682858602921743:474983"
+        }
+    },
+    "1682858602905139:474977": {
+        "IFileManager": {
+            "path": "Files/File_1682858602905139_474977.jpg"
+        }
+    },
+    "1682858602921743:474983": {
+        "IFileManager": {
+            "path": "Files/File_1682858602921743_474983.jpg"
+        }
+    },
+    "1682858602943855:474986": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/noise01.jpg",
+                "hash": "8e6d1f5d53c0d0ce5ba7cf9511b94b01"
+            }
+        }
+    }
+}

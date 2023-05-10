@@ -1,0 +1,63 @@
+{
+    "1682864289354764:1037301": {
+        "IResourceController": {
+            "name": "BlackHole",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1682864295790825:1038424",
+            "publicId": "1682864295927177:1038449",
+            "expected_hash": "3e926c01438d347ba6a1922549f130e0",
+            "resources": [
+                "1682864292827324:1037619",
+                "1682864293146810:1037730",
+                "1682864293148308:1037769",
+                "1682864295724629:1038314"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material #50",
+                        "v": "1682864293780693:1037862"
+                    },
+                    {
+                        "k": "Material #62",
+                        "v": "1682864294545051:1037950"
+                    },
+                    {
+                        "k": "Material #63",
+                        "v": "1682864293150716:1037772"
+                    },
+                    {
+                        "k": "Material #64",
+                        "v": "1682864295182178:1038029"
+                    }
+                ]
+            }
+        }
+    },
+    "1682864295790825:1038424": {
+        "IFileManager": {
+            "path": "Files/File_1682864295790825_1038424.fbx"
+        }
+    },
+    "1682864295927177:1038449": {
+        "IResourceController": {
+            "public": {
+                "path": "BlackHole.fbx",
+                "hash": "3e926c01438d347ba6a1922549f130e0"
+            }
+        }
+    }
+}

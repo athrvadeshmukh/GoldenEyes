@@ -1,0 +1,39 @@
+{
+    "1682856255484773:173169": {
+        "IFileManager": {
+            "path": "Files/File_1682856255484773_173169"
+        }
+    },
+    "1682856255486592:173170": {
+        "IResourceController": {
+            "name": "sclera_material 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856255486597:173171",
+            "fileId": "1682856255484773:173169",
+            "originalId": "1682856255536151:173177",
+            "publicId": "1682856255774538:173184",
+            "expected_hash": "282c7ce419c0bc267139d3e5e0176101"
+        },
+        "IResourceManager": {
+            "uid": "1682856255486597:173171",
+            "name": "Files/File_1682856255484773_173169",
+            "flags": 1
+        }
+    },
+    "1682856255536151:173177": {
+        "IFileManager": {
+            "path": "Files/File_1682856255536151_173177.lsmat"
+        }
+    },
+    "1682856255774538:173184": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Materials/sclera_material 2.lsmat",
+                "hash": "ec7f963b3314f8d95b0a8dbb7549b7cd"
+            }
+        }
+    }
+}

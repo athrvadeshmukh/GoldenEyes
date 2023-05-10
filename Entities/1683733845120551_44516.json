@@ -1,0 +1,21 @@
+{
+    "1683733845119251:44515": {
+        "IResourceController": {
+            "public": {
+                "path": "Trail VFX Resources/VFX",
+                "hash": "2ed51057f3fcf0daf2f45089eb67c72e"
+            }
+        }
+    },
+    "1683733845120551:44516": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683733845119251:44515",
+            "resources": []
+        }
+    }
+}

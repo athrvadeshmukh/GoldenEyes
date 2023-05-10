@@ -1,0 +1,39 @@
+{
+    "1682856255184875:173133": {
+        "IFileManager": {
+            "path": "Files/File_1682856255184875_173133"
+        }
+    },
+    "1682856255187787:173134": {
+        "IResourceController": {
+            "name": "choroid_material 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856255187794:173135",
+            "fileId": "1682856255184875:173133",
+            "originalId": "1682856255244990:173141",
+            "publicId": "1682856255463589:173150",
+            "expected_hash": "8ae954fb31afda0e82cd601b5fbbe529"
+        },
+        "IResourceManager": {
+            "uid": "1682856255187794:173135",
+            "name": "Files/File_1682856255184875_173133",
+            "flags": 1
+        }
+    },
+    "1682856255244990:173141": {
+        "IFileManager": {
+            "path": "Files/File_1682856255244990_173141.lsmat"
+        }
+    },
+    "1682856255463589:173150": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Materials/choroid_material 2.lsmat",
+                "hash": "dcfe42d7b6edd469a4aa3e4b3c911773"
+            }
+        }
+    }
+}

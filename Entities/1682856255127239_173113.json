@@ -1,0 +1,115 @@
+{
+    "1682856255124527:173112": {
+        "IFileManager": {
+            "path": "Files/File_1682856255124527_173112.mesh"
+        }
+    },
+    "1682856255127239:173113": {
+        "IResourceController": {
+            "name": "sclera",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682856255156867:173117",
+            "fileId": "1682856255124527:173112",
+            "publicId": "1682856255181074:173129",
+            "expected_hash": "e8888f6db6133b883176065c8deecfc4",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682856255156867:173117",
+            "name": "Files/File_1682856255124527_173112.mesh",
+            "flags": 1
+        }
+    },
+    "1682856255156867:173117": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "35232",
+                "compressedSize": "22840",
+                "extension": "mesh",
+                "originalRAM": "35232",
+                "originalSize": "22840",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682856255169629:173128"
+        }
+    },
+    "1682856255169629:173128": {
+        "IFileManager": {
+            "path": "Files/File_1682856255169629_173128.mesh"
+        }
+    },
+    "1682856255181074:173129": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Meshes/sclera.mesh",
+                "hash": "e8888f6db6133b883176065c8deecfc4"
+            }
+        }
+    }
+}

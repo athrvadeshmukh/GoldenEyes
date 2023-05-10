@@ -1,0 +1,17 @@
+{
+    "1682864293146828:1037732": {
+        "IResourceController": {
+            "name": "Saturn Rings",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682864293146822:1037731"
+        },
+        "IResourceManager": {
+            "uid": "1682864293146822:1037731",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

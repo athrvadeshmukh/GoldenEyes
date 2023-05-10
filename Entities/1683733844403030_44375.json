@@ -1,0 +1,23 @@
+{
+    "1683733844400468:44374": {
+        "IResourceController": {
+            "public": {
+                "path": "Cloud VFX Resources/Textures",
+                "hash": "14fb81dc112b7387408aee15595b700b"
+            }
+        }
+    },
+    "1683733844403030:44375": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1683733844400468:44374",
+            "resources": [
+                "1683733844421097:44378"
+            ]
+        }
+    }
+}

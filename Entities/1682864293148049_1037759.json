@@ -1,0 +1,17 @@
+{
+    "1682864293148049:1037759": {
+        "IResourceController": {
+            "name": "Saturn Rings Down",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1682864293148048:1037758"
+        },
+        "IResourceManager": {
+            "uid": "1682864293148048:1037758",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

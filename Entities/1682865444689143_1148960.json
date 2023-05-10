@@ -1,0 +1,66 @@
+{
+    "1682865444678411:1148959": {
+        "IFileManager": {
+            "path": "Files/File_1682865444678411_1148959.jpg"
+        }
+    },
+    "1682865444689143:1148960": {
+        "IResourceController": {
+            "name": "eye1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682865444697264:1148963",
+            "fileId": "1682865444678411:1148959",
+            "originalId": "1682865444698023:1148968",
+            "publicId": "1682865444762611:1148975",
+            "expected_hash": "077edc50c20fdcac6aeca19b643863f7",
+            "additional": {
+                "originHash": "8ccc5281785c9887e53862684c2ba4b6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682865444697264:1148963",
+            "name": "Files/File_1682865444678411_1148959.jpg",
+            "flags": 1
+        }
+    },
+    "1682865444697264:1148963": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "13418496",
+                "compressedSize": "188115",
+                "extension": "jpg",
+                "originalRAM": "13418496",
+                "originalSize": "188115",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682865444733678:1148972"
+        }
+    },
+    "1682865444698023:1148968": {
+        "IFileManager": {
+            "path": "Files/File_1682865444698023_1148968.jpg"
+        }
+    },
+    "1682865444733678:1148972": {
+        "IFileManager": {
+            "path": "Files/File_1682865444733678_1148972.jpg"
+        }
+    },
+    "1682865444762611:1148975": {
+        "IResourceController": {
+            "public": {
+                "path": "eye1.jpg",
+                "hash": "8ccc5281785c9887e53862684c2ba4b6"
+            }
+        }
+    }
+}

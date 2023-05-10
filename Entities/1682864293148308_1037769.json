@@ -1,0 +1,25 @@
+{
+    "1682864293148308:1037769": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682864295945073:1038452",
+            "resources": [
+                "1682864293150710:1037771",
+                "1682864293780685:1037861",
+                "1682864294545042:1037949",
+                "1682864295182172:1038028"
+            ]
+        }
+    },
+    "1682864295945073:1038452": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/BlackHole/Materials"
+            }
+        }
+    }
+}

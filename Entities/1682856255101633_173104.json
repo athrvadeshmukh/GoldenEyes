@@ -1,0 +1,24 @@
+{
+    "1682856255101633:173104": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1682856255101929:173105",
+            "resources": [
+                "1682856255060818:173090",
+                "1682856255127239:173113",
+                "1682856255794904:173207"
+            ]
+        }
+    },
+    "1682856255101929:173105": {
+        "IResourceController": {
+            "public": {
+                "path": "Eyeballs Resources/Meshes"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1682864714139295:1076126": {
+        "IFileManager": {
+            "path": "Files/File_1682864714139295_1076126.jpg"
+        }
+    },
+    "1682864714170407:1076129": {
+        "IResourceController": {
+            "name": "helix-nebula-eye-galaxy-universe-wallpaper-preview",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1682864714182065:1076133",
+            "fileId": "1682864714139295:1076126",
+            "originalId": "1682864714182855:1076138",
+            "publicId": "1682864714258247:1076145",
+            "expected_hash": "e0d6715cf01321acd14a8a87c325cd6d",
+            "additional": {
+                "originHash": "e0d6715cf01321acd14a8a87c325cd6d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1682864714182065:1076133",
+            "name": "Files/File_1682864714139295_1076126.jpg",
+            "flags": 1
+        }
+    },
+    "1682864714182065:1076133": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "2649920",
+                "compressedSize": "84121",
+                "extension": "jpg",
+                "originalRAM": "2649920",
+                "originalSize": "84121",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1682864714219075:1076141"
+        }
+    },
+    "1682864714182855:1076138": {
+        "IFileManager": {
+            "path": "Files/File_1682864714182855_1076138.jpg"
+        }
+    },
+    "1682864714219075:1076141": {
+        "IFileManager": {
+            "path": "Files/File_1682864714219075_1076141.jpg"
+        }
+    },
+    "1682864714258247:1076145": {
+        "IResourceController": {
+            "public": {
+                "path": "helix-nebula-eye-galaxy-universe-wallpaper-preview.jpg",
+                "hash": "e0d6715cf01321acd14a8a87c325cd6d"
+            }
+        }
+    }
+}
