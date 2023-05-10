@@ -13,9 +13,6 @@ Scan This QR Code to test our lens or you can visit the link.
 
 https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=62f9573659144d69b9ec770c0fb49417&metadata=01
 
-preview.mp4
-
-
 
 I recieved a badge from SnapChat and Hack2Skill for this AR lens created by us
 
