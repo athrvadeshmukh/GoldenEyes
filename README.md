@@ -21,8 +21,7 @@ I recieved a badge from SnapChat and Hack2Skill for this AR lens created by us
 
 
 
-
-                                                   How to Use This Lens in your System 
+# **How to Use This Lens in your System** 
                                                    
                                                    
 1) To use this in in your system you must have SnapChat lens Studio installed in your system in Windows OS you can downlaod the lens studio by this link 
